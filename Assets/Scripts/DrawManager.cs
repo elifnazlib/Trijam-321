@@ -11,6 +11,7 @@ public class DrawManager : MonoBehaviour
     private Line _currentLine; // Current line being drawn
     public const float RESOLUTION = 0.1f; // Resolution for the line drawing
     private int totalVertices = 0; // Total number of vertices drawn
+    [SerializeField] public int maxVertices = 200; // Maximum number of vertices allowed
 
     void Start()
     {
@@ -21,7 +22,7 @@ public class DrawManager : MonoBehaviour
     {
         Vector2 mousePos = _cam.ScreenToWorldPoint(Input.mousePosition); // Get the mouse position in world coordinates
 
-        if (GetTotalVertexCount() < 200) // Limit the number of vertices to 200
+        if (GetTotalVertexCount() < maxVertices) // Limit the number of vertices to 200
         {
             if (Input.GetMouseButtonDown(0)) _currentLine = Instantiate(_linePrefab, mousePos, Quaternion.identity); // Create a new line at the mouse position
 

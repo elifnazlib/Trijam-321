@@ -28,7 +28,7 @@ public class Line : MonoBehaviour
     {
         if (CanAppend(pos) == false) return; // Check if we can append a new point
 
-        if(drawManager.GetTotalVertexCount() >= 200) return; // Limit the number of vertices to 200
+        if(drawManager.GetTotalVertexCount() >= drawManager.maxVertices) return; // Limit the number of vertices to 200
 
         _points.Add(pos); // Add the new point to the list of points
         _renderer.positionCount++; // Increase the number of points in the line renderer
