@@ -44,7 +44,6 @@ public class Line : MonoBehaviour
         // If there are no points, we can always append a new one
         if (_renderer.positionCount == 0) return true;
 
-
         // Check if the distance from the last point to the new point is greater than the resolution
         return Vector2.Distance(_renderer.GetPosition(_renderer.positionCount - 1), pos) > DrawManager.RESOLUTION;
     }
