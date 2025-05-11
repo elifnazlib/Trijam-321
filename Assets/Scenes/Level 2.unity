@@ -551,7 +551,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6358211500785643305, guid: 00e800a6a116b554db574cba516e018a, type: 3}
       propertyPath: maxVertices
-      value: 80
+      value: 120
       objectReference: {fileID: 0}
     - target: {fileID: 6358211500785643305, guid: 00e800a6a116b554db574cba516e018a, type: 3}
       propertyPath: nonDrawableArea
