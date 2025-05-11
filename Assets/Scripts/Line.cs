@@ -23,13 +23,9 @@ public class Line : MonoBehaviour
     {
         _collider.transform.position = Vector3.zero; // Set the position of the collider to zero
     }
-
-    private float lastAppendTime = 0f;
-    private const float TIME_THRESHOLD = 0.02f; // örnek zaman eşiği (20 ms)
     
     public void SetPosition(Vector2 pos)
     {
-        if (Time.time - lastAppendTime < TIME_THRESHOLD) return;
         if (CanAppend(pos) == false) return; // Check if we can append a new point
 
         if(drawManager.GetTotalVertexCount() >= drawManager.maxVertices) return; // Limit the number of vertices to 200
@@ -41,8 +37,6 @@ public class Line : MonoBehaviour
         _collider.points = _points.ToArray(); // Update the collider points to match the line points
 
         drawManager.IncreaseVertexCount(); // Increase the total vertex count in the DrawManager
-        
-        lastAppendTime = Time.time; // Update the last append time
     }
 
     private bool CanAppend(Vector2 pos)
