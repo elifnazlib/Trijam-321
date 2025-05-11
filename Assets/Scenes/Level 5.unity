@@ -1158,6 +1158,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 353322188}
   m_CullTransparentMesh: 1
+--- !u!1 &418136230 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7669934625911257944, guid: f490837fbea5c9c468e97754fd3877d6, type: 3}
+  m_PrefabInstance: {fileID: 332779589}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &441929181
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2506,22 +2511,22 @@ PrefabInstance:
     - target: {fileID: 3803351565882893077, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: gameOverPanel
       value: 
-      objectReference: {fileID: 7669934625911257944, guid: f490837fbea5c9c468e97754fd3877d6, type: 3}
+      objectReference: {fileID: 418136230}
     - target: {fileID: 4050769778069823023, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_Name
       value: Vehicle
       objectReference: {fileID: 0}
     - target: {fileID: 4050769778069823023, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4726349757242479012, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.92
+      value: 6.67
       objectReference: {fileID: 0}
     - target: {fileID: 4726349757242479012, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.8828
+      value: 3.37
       objectReference: {fileID: 0}
     - target: {fileID: 4726349757242479012, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_LocalPosition.z
