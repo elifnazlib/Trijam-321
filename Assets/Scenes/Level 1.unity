@@ -942,13 +942,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 328584077}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.025490448, w: 0.99967504}
-  m_LocalPosition: {x: 5.41, y: -4.78, z: 0}
+  m_LocalRotation: {x: 0.00078044174, y: 0.028165996, z: 0.015302135, w: 0.9994859}
+  m_LocalPosition: {x: 5.461, y: -4.791, z: 0}
   m_LocalScale: {x: 0.45576707, y: 0.11202058, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1756431643}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 2.921}
+  m_LocalEulerAnglesHint: {x: 0.04, y: 3.229, z: 1.755}
 --- !u!212 &328584079
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1470,7 +1470,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Restart
+  m_text: restart
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1a395f529ae28ae498e97818af5fe749, type: 2}
   m_sharedMaterial: {fileID: 5444265265985490000, guid: 1a395f529ae28ae498e97818af5fe749, type: 2}
@@ -3072,7 +3072,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Start Simulation
+  m_text: start simulation
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1a395f529ae28ae498e97818af5fe749, type: 2}
   m_sharedMaterial: {fileID: 5444265265985490000, guid: 1a395f529ae28ae498e97818af5fe749, type: 2}
