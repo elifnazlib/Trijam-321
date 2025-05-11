@@ -6,6 +6,8 @@ public class Vehicle : MonoBehaviour
     [SerializeField] private Rigidbody2D carRigidbody;
     [SerializeField] private Rigidbody2D frontTireRigidbody;
     [SerializeField] private Rigidbody2D backTireRigidbody;
+    [SerializeField] private GameObject gameOverPanel;
+    [SerializeField] private GameObject restarters;
 
     private void FixedUpdate()
     {
@@ -18,8 +20,10 @@ public class Vehicle : MonoBehaviour
     {
         if (other.CompareTag("Radar"))
         {
-            // TODO: Implement the logic to handle the vehicle entering the radar area
+            restarters.SetActive(false);
+            gameOverPanel.SetActive(true); // Show the game over panel
             Debug.Log(carRigidbody.velocity.x * 3.6f);
+            // TODO: Destroy the vehicle after some time if necessary
         }
     }
 }
