@@ -1,0 +1,3462 @@
+fileFormatVersion: 2
+guid: 2dd3c316445b7e24a93c1de920acb0e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5121832dc7ce2b4694c2137308cded4
+      internalID: -1470252228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 14400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690c47de6123f7a46b9118cadeeec653
+      internalID: -805157845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 14400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14583496c100bc43b8f5417d6afada1
+      internalID: -1996964073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 14400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566333ba42fbef74e852e593158b99bd
+      internalID: -37405870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 14400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0667e5bc81227bc428a5917afd736c5a
+      internalID: 1852603789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a26c86302867a468375b6cdf6c9792
+      internalID: -1153929009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 13920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3bf0ed5e62d1c4996aacd45b913fe0
+      internalID: 1872563849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 13920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942f934ed7de1f4cbaf6443b9bf0708
+      internalID: 186359108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 13920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4377fbd97c743e45a70f97e05df37fa
+      internalID: -312554460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 13920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e123070fb3275d4b82cdec186c998be
+      internalID: 1225415643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388ed26c3f7626f43a78e587985f0eb9
+      internalID: -127943886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 13440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c29182729e99504aaf04b12e980f392
+      internalID: -129775330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 13440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7316b53d4956f4cace0537d2ee7eda
+      internalID: -1527517294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 13440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ab3523ecb93b045886c46fc7242635
+      internalID: 951808286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 13440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c112708592a8d3e4ab3df1ffc02fc1b5
+      internalID: 781377011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9fc00449c83cb40baf1ba41855c802
+      internalID: -1548030248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 12960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa769c9e002634f9aea95931f51ee2
+      internalID: -2105178892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 12960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac3e463142ee14b8547e776a68d249
+      internalID: 444199509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 12960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa68f819f37cd46a7a46592065ed27
+      internalID: -144064492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 12960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c635c124cd4a4db88d6de0641c368
+      internalID: 1748219257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf3fa51e2235347b833be776c7580e
+      internalID: 1318357841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 12480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f4465750412c641b38730070c8e551
+      internalID: -848676062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 12480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429fee729f897548a91e122ae287695
+      internalID: 1509981348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 12480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2a26f9f201fcd4dbfae629cd28a1b3
+      internalID: 999031587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 12480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3e59766cf8de04eb15c94006f50c61
+      internalID: 744099405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12000
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20763414d93f3864380a881e2a31ac98
+      internalID: 816264026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 12000
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905eace3edcc77d499fcb14df2e88925
+      internalID: 1085351057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 12000
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498920a9ee936740b5ee6bc4a262ac0
+      internalID: -987914839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 12000
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b93a947c7e464884aee86c9db9d45
+      internalID: 2138263762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 12000
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738decd811dd8b540a46181de644f3c5
+      internalID: -525155100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11520
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2683b1454756134c91db084580cfab3
+      internalID: 1560375813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 11520
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba70ce2ecc6be83479232193fa7cd9e2
+      internalID: 2009395455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 11520
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e703f2d1d2ef44802670f11ea02ef
+      internalID: -224568560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 11520
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a182487527ad0f04bb05500f916d21e5
+      internalID: 1744488134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 11520
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ce5744a2da3346b4c5cbfd720d890
+      internalID: -1911040167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11040
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b708de0b0ff9cc419380cae5730deab
+      internalID: 890581403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 11040
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a51f5481ae3cb341a70d8ce10a950bc
+      internalID: -1142882878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 11040
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205ff4dfda0ed7438caea94be75cb67
+      internalID: -639060133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 11040
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8bdf8d0911f2142979003ffc90e605
+      internalID: 1537035212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 11040
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c20618fde6c254bb074345c393f78d
+      internalID: 180987895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10560
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3df56e4dfcdd4fa69423b10fed6fc
+      internalID: 1909470269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10560
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d5313c2d39fe4288ed90187567a42
+      internalID: 277234999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 10560
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6de96231b47e5f4a9002db49977815e
+      internalID: -955765693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 10560
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85be90ab406ac9745a3dd0bc5f395832
+      internalID: -1469444960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 10560
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60add69ed9e5345beaeeb40356e7ee
+      internalID: 1809665329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10080
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbc4e3a71865664bbe30702a81de6aa
+      internalID: 318863812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10080
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a22ba04406e44d8a75e77fb927697
+      internalID: -981912681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 10080
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab371afabe0a45f4095e46b66f0479d0
+      internalID: -195877977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 10080
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8108c6594a1caf74caa9e3d38ce01de0
+      internalID: 1860827272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 10080
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b4c15df7b00fb4fbac644ccde29223
+      internalID: 470470498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aa67241fe1d0b48a50ef1b536294e8
+      internalID: -1865546872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 9600
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546f671003ef0847996ac32be13328c
+      internalID: 1188487775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 9600
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e8ea21990ba840b46ccb6754b542a
+      internalID: -108646295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 9600
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3575bed1e88d9d24cb807a6cb4a92676
+      internalID: -908586546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 9600
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1584099b9e915428fc72eb94073da8
+      internalID: -1449784616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9120
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13b7182727f2fe488fee3005dde5596
+      internalID: 626811376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 9120
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c347e9526c4694d965adb4a20e8331
+      internalID: -318410358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 9120
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0595fee84e7431a46a1ff2a970e4b409
+      internalID: -1872322595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 9120
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c29925da7b8174f9b3f2d867834344
+      internalID: 1873264312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 9120
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d76fa61ac4215b4cbbdd67dc0aeffa7
+      internalID: -1850483372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7282691a2412aa4aabce25e95aa013b
+      internalID: 628910010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 8640
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a94f8f7561ff4f8fc9876126328ef
+      internalID: -1489219314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_62
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 8640
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ccea6568f49104fb47ef88753371a2
+      internalID: 416928548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_63
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 8640
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7edc3fd87b39a4691707ac2ec282b5
+      internalID: -439806530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_64
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 8640
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaff55f3edcb35c41bc6d74f9a773da6
+      internalID: 194528044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8160
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e603a53f91784f4c8b3b6462fd5ad1b
+      internalID: -166945014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 8160
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c13e3605b69c4db2a4baa2f6eca28
+      internalID: -759523236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 8160
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a1bb54016771c4299958ab531cdb7b
+      internalID: -1163762726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_68
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 8160
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a195ebb5b2125e4c9baf9a22da28d30
+      internalID: -886633489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_69
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 8160
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d422951be205143912afdf76d021ba
+      internalID: 1470311787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8acb06b6e0948843a5defe09d99e276
+      internalID: -403187566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7680
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e65eec1b722646aeaadf78c11b885
+      internalID: -2098472722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_72
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7680
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8347939252416f84dbf49b28d944be4b
+      internalID: -823690743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_73
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7680
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa9f20350f2d04aba8838ce2976262
+      internalID: 1767418986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_74
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7680
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70182ce1ba829784ca6ad376bcf0b1f1
+      internalID: -584829273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d455dea5e729b04c87971ba02204911
+      internalID: 1835453266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7200
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e5a7d7ef7373a4c8e3b5c7a96382f5
+      internalID: -1606014245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_77
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7200
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6826c0ff1580c47a00e85ebb4595f1
+      internalID: 1267603523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_78
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7200
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49051fe3cc465044ba0fa6d64786545
+      internalID: 534639566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7200
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9e67f6952d484dba46d870c75fe0b
+      internalID: -774350319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6720
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6856eff7168394b9c7b64b6c9d4d1a
+      internalID: -1918495732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_81
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6720
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4996bf262f757cd4580412e4d752810c
+      internalID: -1225943870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_82
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6720
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac91656bd0f98544b8816f69b1f90a9
+      internalID: -315187938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_83
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6720
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b213fc8ed74b79409395ed5ca550702
+      internalID: 1337731178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_84
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6720
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ea972b193067b4784e83fdd24083d3
+      internalID: 1796363037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6240
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36887168f9bfa3419783b70d7c13987
+      internalID: -1047060852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6240
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a95a9b262d4eb43b782c7f3a64329a
+      internalID: 1425542517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_87
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6240
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796ff517c83becd4982a0d978855d7eb
+      internalID: -1850932670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_88
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6240
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545711f7533e4514fbd72fcc459b3fa8
+      internalID: -1070713205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_89
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6240
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4cf5cb40082d843ad82bc980fd81b0
+      internalID: -1881145484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d99e9e9dee8f84d89d3699749cc23f
+      internalID: 2068065193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_91
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5760
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5e1f3cba13f74695c3b96d1e4267e
+      internalID: -1188084413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_92
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5760
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe50737e40fc0d4582efb9692a0b40d
+      internalID: 1930625146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_93
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5760
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b57b63714773044094855fe5d7776aa
+      internalID: -765612760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_94
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5760
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48e63c6467d6c459ca81b007b18e11
+      internalID: 1699281344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3154186438d10ce4592a35e3d045ec6e
+      internalID: -449066832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5280
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9bef2b81eab6c4999daccce281f021
+      internalID: -750159705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_97
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5280
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab50d8d9ed7e245bd371e7ea18b7b1
+      internalID: -807490683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_98
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5280
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be644b6012eaee4b8628f4b512d01d7
+      internalID: -1669559726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_99
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5280
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e057b328a099fb41922f886f4e3fbde
+      internalID: 947499676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa467f120a4c246966852fda7cccd1
+      internalID: -2138077675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4800
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6406d12169e76c642b6be18464479e60
+      internalID: -427823292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4800
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746cd169708b5eb41b83e23e7d95dbeb
+      internalID: 1437698158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_103
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4800
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb8bf9651e0ec4798ce2d2836dd529
+      internalID: 2100843051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_104
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4800
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9684801726f638746a79b852c974d458
+      internalID: -262512747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cfbb201ccc68d4996fafb490597c17
+      internalID: 1456040993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4320
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31321752bad50f41be0f16321ee9c1b
+      internalID: 1905941679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_107
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4320
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefbf9a5675536844818725d84881382
+      internalID: 1384437126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_108
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4320
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe907da9f1a0fa4383c88d27a34ad3c
+      internalID: 1986287793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_109
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deda2a2f0aef5c459db19f63a848290
+      internalID: -486328952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6de8e21249edf44bb6198630977b8f
+      internalID: -695077627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3840
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc54e241c6d9e9498df8ef7b216b8b2
+      internalID: 1650429610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_112
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3840
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001e4149a804ac40a5f4e5f874c516d
+      internalID: -763212997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_113
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3840
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c530201abbb90154b9fe3bbd86eb45e9
+      internalID: -1803692520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_114
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edddd79d9f1840c41be8fc99deca2d54
+      internalID: -1709773961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b58e3d5d1dcb43a658bbe50175031
+      internalID: -2005578594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3360
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f88295d86e51742b5af0f6f9d1d25d
+      internalID: -1320003477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3360
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd96d8e01f0da2446b50e6cf78ae792e
+      internalID: -686840281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_118
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3360
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a236002d820a7da498f6ca373335b5bd
+      internalID: 646887996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_119
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d864de9880f0d942ac531e911335a19
+      internalID: 1954336451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214d8fbae59c9824dab1d0f5a6ad7366
+      internalID: 1963913247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2880
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff1d6ba4a45644b9fc9d1c23c71e75
+      internalID: -2075727031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_122
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2525a603d449e4cad305fc1c51ffcc
+      internalID: -1455209451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_123
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2880
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9a376ca8af6649b5294aaf2b06ff5
+      internalID: -1326474478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_124
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e06ceaea6a20f54bae0871752b03f25
+      internalID: -1989969999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaeccf61285a8543807ae5c6772daf0
+      internalID: -1788385134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863000082872124da2c38242a9e3e17
+      internalID: 1989982561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd4b14e18a69e4f9e5cb1ec2c75fde
+      internalID: 1784173371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_128
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c732828f2289c4b917ea609dbfee68
+      internalID: 2054638070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_129
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2400
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75b3d21f63b664e8fc86536de97dfb
+      internalID: -1557863646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1232d71ac24793b4da85712fcb17d2b2
+      internalID: -1454660324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3976eed1562b46a0d9f42b0890371
+      internalID: 741894259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_132
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc5ddaacba16e043b1831546fdfbded
+      internalID: 555310041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_133
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35019dcea30b666429135bfb6ab3bf23
+      internalID: -1037741607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_134
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9431a418c98375a4080dd916248b04f7
+      internalID: 1374408019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f0393b68f60704a9b3da17c7cd8dbc
+      internalID: -1615447106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d842275abacb84449c02346c75876eb
+      internalID: -1745716984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_137
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6037f7b1dc29b114489484fe7c2c017a
+      internalID: 1425893888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_138
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403102ec0ad4e2149b485f7139333de1
+      internalID: 1088178186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_139
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68962b56e47ebd04691b8fef15a61da3
+      internalID: 1776346191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89f5e89b89e6c94ab7afc00bc9e1884
+      internalID: 1347519254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788018f41a7f68b45a572a2910338105
+      internalID: 437718186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_142
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7551daacd82c13e4cb715714669317fc
+      internalID: -526630132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_143
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445c6467ab10f140928fdf3e148b3f4
+      internalID: 1666717355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_144
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ebe8afb6875141b63a0e0ae2eae74
+      internalID: 996934368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb64b93337948845854aa1acdd40996
+      internalID: 1999136602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_146
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abe81d5bda957446bfa9f5b3e38f698
+      internalID: -1402120196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_147
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7c36454d056d42b55aa517efe4344
+      internalID: 1286799459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_148
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eac5751b6f6674ab5f572affa03604
+      internalID: -2136528553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_149
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5fadce7e7551b48b1b44c159b87421
+      internalID: 1921032232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7826820f2c72884478a89b5e004ed27b
+      internalID: 1118853082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_0: -1470252228
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_1: -805157845
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_10: -127943886
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_100: -2138077675
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_101: -427823292
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_102: 1437698158
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_103: 2100843051
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_104: -262512747
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_105: 1456040993
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_106: 1905941679
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_107: 1384437126
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_108: 1986287793
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_109: -486328952
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_11: -129775330
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_110: -695077627
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_111: 1650429610
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_112: -763212997
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_113: -1803692520
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_114: -1709773961
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_115: -2005578594
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_116: -1320003477
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_117: -686840281
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_118: 646887996
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_119: 1954336451
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_12: -1527517294
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_120: 1963913247
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_121: -2075727031
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_122: -1455209451
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_123: -1326474478
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_124: -1989969999
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_125: -1788385134
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_126: 1989982561
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_127: 1784173371
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_128: 2054638070
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_129: -1557863646
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_13: 951808286
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_130: -1454660324
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_131: 741894259
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_132: 555310041
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_133: -1037741607
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_134: 1374408019
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_135: -1615447106
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_136: -1745716984
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_137: 1425893888
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_138: 1088178186
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_139: 1776346191
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_14: 781377011
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_140: 1347519254
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_141: 437718186
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_142: -526630132
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_143: 1666717355
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_144: 996934368
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_145: 1999136602
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_146: -1402120196
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_147: 1286799459
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_148: -2136528553
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_149: 1921032232
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_15: -1548030248
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_150: 1118853082
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_16: -2105178892
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_17: 444199509
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_18: -144064492
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_19: 1748219257
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_2: -1996964073
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_20: 1318357841
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_21: -848676062
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_22: 1509981348
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_23: 999031587
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_24: 744099405
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_25: 816264026
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_26: 1085351057
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_27: -987914839
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_28: 2138263762
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_29: -525155100
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_3: -37405870
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_30: 1560375813
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_31: 2009395455
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_32: -224568560
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_33: 1744488134
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_34: -1911040167
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_35: 890581403
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_36: -1142882878
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_37: -639060133
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_38: 1537035212
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_39: 180987895
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_4: 1852603789
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_40: 1909470269
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_41: 277234999
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_42: -955765693
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_43: -1469444960
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_44: 1809665329
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_45: 318863812
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_46: -981912681
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_47: -195877977
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_48: 1860827272
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_49: 470470498
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_5: -1153929009
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_50: -1865546872
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_51: 1188487775
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_52: -108646295
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_53: -908586546
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_54: -1449784616
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_55: 626811376
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_56: -318410358
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_57: -1872322595
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_58: 1873264312
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_59: -1850483372
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_6: 1872563849
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_60: 628910010
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_61: -1489219314
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_62: 416928548
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_63: -439806530
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_64: 194528044
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_65: -166945014
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_66: -759523236
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_67: -1163762726
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_68: -886633489
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_69: 1470311787
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_7: 186359108
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_70: -403187566
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_71: -2098472722
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_72: -823690743
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_73: 1767418986
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_74: -584829273
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_75: 1835453266
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_76: -1606014245
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_77: 1267603523
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_78: 534639566
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_79: -774350319
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_8: -312554460
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_80: -1918495732
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_81: -1225943870
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_82: -315187938
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_83: 1337731178
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_84: 1796363037
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_85: -1047060852
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_86: 1425542517
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_87: -1850932670
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_88: -1070713205
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_89: -1881145484
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_9: 1225415643
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_90: 2068065193
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_91: -1188084413
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_92: 1930625146
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_93: -765612760
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_94: 1699281344
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_95: -449066832
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_96: -750159705
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_97: -807490683
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_98: -1669559726
+      ArrowSwipeStickerbyCAPSBOLD-ezgif.com-gif-to-sprite-converter_99: 947499676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
