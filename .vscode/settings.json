@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Experimental.sln"
+    "dotnet.defaultSolution": "Trijam-321.sln"
 }
