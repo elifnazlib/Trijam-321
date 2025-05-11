@@ -26,17 +26,40 @@ public class Line : MonoBehaviour
     
     public void SetPosition(Vector2 pos)
     {
-        if (CanAppend(pos) == false) return; // Check if we can append a new point
+        if (drawManager.GetTotalVertexCount() >= drawManager.maxVertices) return;
 
-        if(drawManager.GetTotalVertexCount() >= drawManager.maxVertices) return; // Limit the number of vertices to 200
+        if (_points.Count == 0)
+        {
+            AddPoint(pos);
+            return;
+        }
 
-        _points.Add(pos); // Add the new point to the list of points
-        _renderer.positionCount++; // Increase the number of points in the line renderer
-        _renderer.SetPosition(_renderer.positionCount - 1, pos); // Set the position of the new point
+        Vector2 lastPoint = _points[_points.Count - 1];
+        float distance = Vector2.Distance(lastPoint, pos);
 
-        _collider.points = _points.ToArray(); // Update the collider points to match the line points
+        if (distance < DrawManager.RESOLUTION) return;
 
-        drawManager.IncreaseVertexCount(); // Increase the total vertex count in the DrawManager
+        int steps = Mathf.FloorToInt(distance / DrawManager.RESOLUTION);
+        Vector2 direction = (pos - lastPoint).normalized;
+
+        for (int i = 1; i <= steps; i++)
+        {
+            Vector2 newPoint = lastPoint + direction * (DrawManager.RESOLUTION * i);
+
+            if (drawManager.GetTotalVertexCount() >= drawManager.maxVertices)
+                return;
+
+            AddPoint(newPoint);
+        }
+    }
+
+    private void AddPoint(Vector2 point)
+    {
+        _points.Add(point);
+        _renderer.positionCount++;
+        _renderer.SetPosition(_renderer.positionCount - 1, point);
+        _collider.points = _points.ToArray();
+        drawManager.IncreaseVertexCount();
     }
 
     private bool CanAppend(Vector2 pos)
