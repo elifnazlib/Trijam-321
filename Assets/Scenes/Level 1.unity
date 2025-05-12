@@ -2920,7 +2920,6 @@ RectTransform:
   - {fileID: 1223470003}
   - {fileID: 861415934}
   - {fileID: 44269162}
-  - {fileID: 691601620}
   - {fileID: 1309781949}
   - {fileID: 361570343}
   - {fileID: 25774036}
@@ -2932,6 +2931,7 @@ RectTransform:
   - {fileID: 1326682892}
   - {fileID: 3671658}
   - {fileID: 1581784715}
+  - {fileID: 691601620}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -2988,8 +2988,8 @@ Canvas:
   m_GameObject: {fileID: 898527618}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 1232492618}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -3000,7 +3000,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_TargetDisplay: 0
 --- !u!1001 &923960700
 PrefabInstance:
@@ -3899,7 +3899,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -228.07, y: 0.00012207031}
+  m_AnchoredPosition: {x: -228.07007, y: 0.00012207031}
   m_SizeDelta: {x: 376.9366, y: 107.1176}
   m_Pivot: {x: 1, y: 1}
 --- !u!1 &1087212280
