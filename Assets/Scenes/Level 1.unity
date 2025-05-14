@@ -3014,8 +3014,20 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1075916169034336075, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1075916169034336075, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2146776240308394029, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_GravityScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2146776240308394029, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3552384174071716139, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
@@ -3109,6 +3121,14 @@ PrefabInstance:
     - target: {fileID: 7107375426230144520, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_SortingOrder
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7364687392756061376, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7364687392756061376, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

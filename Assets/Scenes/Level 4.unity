@@ -1863,8 +1863,20 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1075916169034336075, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1075916169034336075, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2146776240308394029, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_GravityScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2146776240308394029, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3803351565882893077, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
@@ -1942,6 +1954,14 @@ PrefabInstance:
     - target: {fileID: 4726349757242479012, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7364687392756061376, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7364687392756061376, guid: e91ee1ea613726041bbd63b6fb1565d7, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
